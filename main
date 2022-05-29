@@ -130,32 +130,32 @@ public:
         cout << "Третьим числом вводите 5 число и так далее" << endl;
         while(true){
             while(true){
-                cout << "Введите первое число:" << endl;
+                cout << "Введите шестое число:" << endl;
                 cin >> fnum;
                 if(fnum != numbers[5]){
                     break;
                 }
-                cout << "Введите второе число:" << endl;
+                cout << "Введите первое число:" << endl;
                 cin >> fnum;
                 if(fnum != numbers[0]){
                     break;
                 }
-                cout << "Введите третье число:" << endl;
+                cout << "Введите пятое число:" << endl;
                 cin >> fnum;
                 if(fnum != numbers[4]){
                     break;
                 }
-                cout << "Введите четвертое число:" << endl;
+                cout << "Введите второе число:" << endl;
                 cin >> fnum;
                 if(fnum != numbers[1]){
                     break;
                 }
-                cout << "Введите пятое число:" << endl;
+                cout << "Введите четвертое число:" << endl;
                 cin >> fnum;
                 if(fnum != numbers[3]){
                     break;
                 }
-                cout << "Введите шестое число:" << endl;
+                cout << "Введите третье число:" << endl;
                 cin >> fnum1;
                 if(fnum1 != numbers[2]){
                     break;
