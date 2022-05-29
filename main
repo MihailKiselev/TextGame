@@ -55,7 +55,7 @@ public:
     }
 
     void Second(){
-        int N1, N2, randnum,randnum1,randnum2,randnum12;
+        int N1, N2, randnum,randnum1,randnum2;
         N1 = 0;
         N2 = 0;
         string otvet, otvet1;
